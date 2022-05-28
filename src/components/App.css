@@ -1,0 +1,8 @@
+/* Styles go here */
+.token {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: black;
+}
